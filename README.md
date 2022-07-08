@@ -49,8 +49,6 @@ You will have the return of an array with all the shows for the date of your cho
 }
 ~~~
 ___
-
-___
 ## <font color="pink">Get Band Details</font>
 Using the path /band/:bandId
 
@@ -84,8 +82,6 @@ You will get this return:
 ~~~
 Registered User✅ and [Token]
 ~~~
-___
-
 ___
 
 ## <font color="pink">User Login</font>
@@ -140,4 +136,3 @@ You will get this return:
 ~~~
 Registered Show✅
 ~~~
-___
